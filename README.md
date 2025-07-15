@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hey, I'm Grace Makena!
 
 I'm a passionate and curious developer on a continuous journey of learning and building. 
